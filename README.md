@@ -1,0 +1,1 @@
+This repository is used to store the codes for the parallel computing, which finishes the cpu and gpu versions of using openmp and MPI to solve the 3D poisson equation using the red-black SOR iteration.
